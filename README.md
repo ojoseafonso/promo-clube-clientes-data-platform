@@ -1,5 +1,14 @@
 # Plataforma de Dados para Validação de Clientes em PDV — V2
 
+![Airbyte](https://img.shields.io/badge/Airbyte-CDC%20%26%20Ingestion-orange)
+![dbt](https://img.shields.io/badge/dbt-Transformations-FF694B)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CDC-blue)
+![Redis](https://img.shields.io/badge/Redis-Low%20Latency%20Cache-red)
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8)
+
+
 O projeto implementa uma **plataforma de dados completa para validação de clientes no momento da venda (PDV)**, utilizando práticas modernas de Engenharia de Dados: ingestão automatizada, transformação analítica, data warehouse em nuvem, cache de baixa latência e API desacoplada.
 
 Ele é a **evolução ferramental da versão 1** do projeto:
