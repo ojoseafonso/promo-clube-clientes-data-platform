@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: RAW
+    schema: RAW_CLIENTES   # ou o schema que o Airbyte criou
+    tables:
+      - name: CLIENTES_CLUBE
+        description: "Tabela raw de clientes cadastrados no clube de promoções"
